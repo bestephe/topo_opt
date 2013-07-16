@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Copyright (c) 2013, Brent Stephens (bestephe@gmail.com)
+# Copyright (c) 2013, Rice University and Brent Stephens (bestephe@gmail.com)
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
